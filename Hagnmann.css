@@ -1,0 +1,31 @@
+body{
+    background-color:black;
+}
+.container{
+    position:absolute;
+    transform: translate(-50%,-50%);
+    top:50%;
+    left:50%;
+    background-color: rgb(19, 55, 75);
+    width:300px;
+    height:200px;
+    border-radius: 20px;
+    text-align:center;
+    color:white;
+    box-shadow:0px 0px 10px 5px rgb(39, 119, 166);
+}
+div{
+    display:inline;
+    font-size:40px;
+   
+}
+.letters{
+    color:white;
+    background-color: rgba(39, 119, 166, 0.299);
+    display:block;
+    font-size:18px;
+    height:40px;
+    padding-top:10px;
+    box-sizing: content-box;
+
+}
